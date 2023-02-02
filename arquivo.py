@@ -1,4 +1,4 @@
 #Commits da primeira branch
 print('1° commit')
-
+print('2° commit')
 #Commits da segunda branch
